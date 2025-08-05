@@ -10,11 +10,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-c2aHHMu9QN
+- Live Site URL: https://vtejas025.github.io/Frontend-mentor-Blog-preview-card/
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - vtejas025 https://www.frontendmentor.io/profile/vtejas025
